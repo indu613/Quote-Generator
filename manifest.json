@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Inspiring Quotes",
+  "version": "1.0",
+  "description": "Read a random quote and get inspired!",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": []
+}
