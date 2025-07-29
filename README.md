@@ -1,6 +1,4 @@
 # Chrome Extension Using JavaScript
-#### Video Demo: https://youtu.be/FNhAoC0X2Ck?si=l2ozFlwe1S5qMZmg
-#### Description:
 
 ## Preview:
 A chrome extension that displays random motivational quotes on button click. It brings motivation whenever you feel lacking of it, just with a button click.
